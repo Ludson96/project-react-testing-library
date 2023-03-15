@@ -19,7 +19,7 @@ describe('Testando se as informações detalhadas do pokémon são mostradas na 
     expect(nameDetails).toBeInTheDocument();
   });
 
-  test('Se não existi o link de navegação para os detalhes do pokémon', () => {
+  test('Se não existe o link de navegação para os detalhes do pokémon', () => {
     renderWithRouter(<App />);
 
     const btnBug = screen.getByRole('button', { name: 'Bug' });
