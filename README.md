@@ -65,6 +65,8 @@ Neste projeto, desenvolvi as seguintes habilidades:
 
 1. Toda a logica se na pasta `src`, para executar os testes basta usar o comando `npm test` para executar todos os testes ou `npm test <nome do teste>` para executar um teste especifico.
 
+> `Front-end` fornecido pela **Trybe**.
+
 [Git-logo]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com
 [ESLint-logo]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
