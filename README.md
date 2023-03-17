@@ -9,7 +9,7 @@
 ## Informações de aprendizados
 
 - Este é um projeto desenvolvido para aprender `React Testing Library`;
-- Primeiro teste utilizando `React Testing Library`.
+- Primeiro projeto utilizando `React Testing Library`.
 
 ## Linguagens e ferramentas usadas
 
